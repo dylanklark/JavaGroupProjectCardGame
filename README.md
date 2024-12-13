@@ -10,3 +10,5 @@ Eli Baird- Added the healthbars, helped with the game idea, and helped implement
 Henry Moore- Did all the graphic design work and UI designs.
 
 Enrique Leon- Implemented the graphic design work into fxml.
+
+Link to the original repository if interested in the development progression- https://github.com/EnriqueLeonR/GroupProjectCardGame
