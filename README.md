@@ -3,7 +3,7 @@ Card combinations follow poker rules (as mentioned) which means you either make 
 
 Dylan Clark (me)- Created the UML and implemented into code, programmed the animations, added a restart game button, and helped bug fix. 
 
-Michael Pedicone- Coded the main game logic, including the computer.
+Michael Pedicone- Coded the main game logic, including the computer and added the card buttons on screen.
 
 Eli Baird- Added the healthbars, helped with the game idea, and helped implement game logic.
 
